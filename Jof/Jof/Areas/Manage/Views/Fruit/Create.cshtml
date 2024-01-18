@@ -1,0 +1,32 @@
+﻿@using Jof.Areas.Manage.Models;
+@model CreateFruitVm
+<div class="col-lg-8  stretch-card" style="margin:auto; margin-top:20px">
+    <div class="card">
+        <div class="container">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3" style="margin-bottom:20px;">
+                    <label asp-for="Title" class="form-label">Title</label>
+                    <input asp-for="Title" type="text" placeholder="Apple" class="form-control">
+                    <span asp-validation-for="Title" style="color:red"></span>
+                </div>
+                <div class="mb-3" style="margin-bottom:20px;">
+                    <label asp-for="SubTitle" class="form-label">SubTitle</label>
+                    <input asp-for="SubTitle" type="text" placeholder="Nice fruit" class="form-control">
+                    <span asp-validation-for="SubTitle" style="color:red"></span>
+                </div>
+                <div class="mb-8 d-flex" style="box-sizing:border-box">
+                    <div class="mb-6" style="margin-bottom:10px;max-width:510px;">
+                        <label asp-for="Image" class="form-label">Image</label>
+                        <input asp-for="Image"   style="width:500px;height:150px;">
+                        </input>
+                        <span asp-validation-for="Image" style="color:red"></span>
+                    </div>
+                    <div asp-validation-summary="All" class="text-danger" style="margin-top:20px;margin-left:20px;right:0;"></div>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+
+
+</div>

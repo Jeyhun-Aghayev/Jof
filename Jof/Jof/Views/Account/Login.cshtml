@@ -1,0 +1,43 @@
+﻿@using Jof.Models.Account;
+@model LoginVm
+<main class="main-content" style="margin-top:150px;">
+    <div class="login-register-area section-space-y-axis-100">
+        <div class="container">
+            <div class="row justify-content-center">
+
+                <div class="col-lg-6 pt-5 pt-lg-0">
+                    <form method="post">
+                        <div class="login-form">
+                            <h4 class="login-title">Login</h4>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <label asp-for="UsernameOrEmail">Username Or Email*</label>
+                                    <input asp-for="UsernameOrEmail" placeholder="Username Or Email" style="margin-left:20px;margin-top:10px" />
+                                    <span asp-validation-for="UsernameOrEmail" class="text-danger"></span>
+                                </div>
+                                <div class="col-lg-12">
+                                    <label asp-for="Password">Password</label>
+                                    <input asp-for="Password" placeholder="Password" style="margin-left:50px;margin-top:10px;" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="check-box" style="margin-top:10px">
+                                        <input asp-for="RememberMe" />
+                                        <label asp-for="RememberMe">Remember me</label>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 pt-5 text-danger" asp-validation-summary=All></div>
+                                <div class="col-lg-12 pt-5">
+                                    <button type="submit"
+                                            class="btn btn-custom-size lg-size btn-pronia-primary">
+                                        Login
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
