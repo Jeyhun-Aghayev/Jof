@@ -61,7 +61,7 @@ namespace Jof.Controllers
             if (result.IsLockedOut) { ModelState.AddModelError(string.Empty, "Try again later"); return View(result); }
             if (!result.Succeeded) { ModelState.AddModelError(string.Empty, "Username/Email or Password incorrect"); }
             await _signInManager.SignInAsync(user, vm.RememberMe);
-            return (returnUrl is not null && returnUrl.Contains("Login")) ? RedirectToAction(nameof(Index), "Home") : (ActionResult)Redirect(returnUrl);
+            return (returnUrl is not null && (returnUrl.Contains("Login"))||returnUrl.Contains("Register")) ? RedirectToAction(nameof(Index), "Home") : (ActionResult)Redirect(returnUrl);
         }
         public IActionResult Logout() { _signInManager.SignOutAsync(); return RedirectToAction(nameof(Index), "Home"); }
         public async Task<IActionResult> CreateRole()

@@ -30416,6 +30416,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\3dfca52b-14cb-463f-8503-186b85871592hero_1.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\51fb0f91-2275-4371-8f12-7da99867fdb1image_processing20210912-32245-cyhjxl.gif))">
+      <SourceType>Package</SourceType>
+      <SourceId>Jof</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Jof</BasePath>
+      <RelativePath>Upload/Images/51fb0f91-2275-4371-8f12-7da99867fdb1image_processing20210912-32245-cyhjxl.gif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\51fb0f91-2275-4371-8f12-7da99867fdb1image_processing20210912-32245-cyhjxl.gif))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\97acd1e5-7000-4975-b6c7-22ec1addf398image_processing20210912-32245-cyhjxl.gif))">
       <SourceType>Package</SourceType>
       <SourceId>Jof</SourceId>
@@ -30431,6 +30447,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\97acd1e5-7000-4975-b6c7-22ec1addf398image_processing20210912-32245-cyhjxl.gif))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\e1fbf591-00a0-4caa-a608-bdacabc912e2hero_2.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Jof</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Jof</BasePath>
+      <RelativePath>Upload/Images/e1fbf591-00a0-4caa-a608-bdacabc912e2hero_2.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\e1fbf591-00a0-4caa-a608-bdacabc912e2hero_2.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Upload\Images\fd7652dd-6544-47e8-ad70-c9afa0db14d7hero_1.png))">
       <SourceType>Package</SourceType>

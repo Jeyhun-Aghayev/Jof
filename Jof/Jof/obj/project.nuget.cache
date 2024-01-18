@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcERJMNLILiRIQytcsxWSEBGzeyGkAwYsTZB649MRbDQsmt8+Tt390oTXNP8WWMLfiuZQxrpKFRWeEdCZzY9ww==",
+  "dgSpecHash": "rhotz0SrxtuuqJDpdeZJa558uRDeRpAV/Y0rHnALSX1M7grZwsrLOK9wxRlIb35MoN5UTtgcBXGTOpf5RF7+GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\II novbe\\source\\repos\\Jof\\Jof\\Jof.csproj",
+  "projectFilePath": "C:\\Users\\II novbe\\Desktop\\Jof\\Jof\\Jof\\Jof.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II novbe\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\II novbe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

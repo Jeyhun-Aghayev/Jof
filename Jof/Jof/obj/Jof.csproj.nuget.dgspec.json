@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II novbe\\source\\repos\\Jof\\Jof\\Jof.csproj": {}
+    "C:\\Users\\II novbe\\Desktop\\Jof\\Jof\\Jof\\Jof.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II novbe\\source\\repos\\Jof\\Jof\\Jof.csproj": {
+    "C:\\Users\\II novbe\\Desktop\\Jof\\Jof\\Jof\\Jof.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II novbe\\source\\repos\\Jof\\Jof\\Jof.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\Jof\\Jof\\Jof\\Jof.csproj",
         "projectName": "Jof",
-        "projectPath": "C:\\Users\\II novbe\\source\\repos\\Jof\\Jof\\Jof.csproj",
+        "projectPath": "C:\\Users\\II novbe\\Desktop\\Jof\\Jof\\Jof\\Jof.csproj",
         "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II novbe\\source\\repos\\Jof\\Jof\\obj\\",
+        "outputPath": "C:\\Users\\II novbe\\Desktop\\Jof\\Jof\\Jof\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

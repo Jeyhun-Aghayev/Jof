@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Jof
 build_property.RootNamespace = Jof
-build_property.ProjectDir = C:\Users\II novbe\source\repos\Jof\Jof\
+build_property.ProjectDir = C:\Users\II novbe\Desktop\Jof\Jof\Jof\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\II novbe\source\repos\Jof\Jof
+build_property.MSBuildProjectDirectory = C:\Users\II novbe\Desktop\Jof\Jof\Jof
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Areas/Manage/Views/Fruit/Create.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Areas/Manage/Views/Fruit/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEZydWl0XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Areas/Manage/Views/Fruit/Index.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Areas/Manage/Views/Fruit/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEZydWl0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Areas/Manage/Views/Fruit/Update.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Areas/Manage/Views/Fruit/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEZydWl0XFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Views/Account/Login.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Views/Account/Register.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Views/Home/Index.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Views/_ViewImports.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Views/_ViewStart.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/source/repos/Jof/Jof/Views/Shared/_Layout.cshtml]
+[C:/Users/II novbe/Desktop/Jof/Jof/Jof/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sj50ljnmkn
