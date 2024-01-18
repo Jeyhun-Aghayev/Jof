@@ -56,6 +56,7 @@ namespace Jof.Areas.Manage.Controllers
         }
         public async Task<IActionResult> Update(int id)
         {
+        if(id<=0) return BadRequest():
             Fruit fruit = await _db.Fruits.Where(f => !f.IsDeleted && f.Id == id).FirstOrDefaultAsync();
             if (fruit is null) return BadRequest();
             UpdateFruitVm vm = new UpdateFruitVm()
@@ -95,7 +96,8 @@ namespace Jof.Areas.Manage.Controllers
             return RedirectToAction(nameof(Index));
         }
         public async Task<IActionResult> Delete(int id)
-        {
+        { 
+         if(id<=0) return BadRequest():
             Fruit fruit = await _db.Fruits.Where(f => !f.IsDeleted && f.Id==id).FirstOrDefaultAsync();
             if (fruit is not null) fruit.IsDeleted = true;
             await _db.SaveChangesAsync();
